@@ -1,0 +1,6 @@
+{
+  "name": "Meeting Agenda Crafter",
+  "description": "Transform docx and markdown documents into structured meeting agendas with topic summaries, action items, stakeholders, and dynamic time allocations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
